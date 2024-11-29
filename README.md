@@ -19,3 +19,4 @@ decidi estudiar desarrollo web porque tengo muchos amigos que estudiaron dicha c
 
 Sergio Lopez Rodriguez
 _Sergio2LR_
+.vscode\Proyecto.md
